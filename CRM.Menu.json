@@ -1,0 +1,230 @@
+[{
+  "_id": {
+    "$oid": "66067a7dfc6bcd79d187c0b1"
+  },
+  "menu": {
+    "header": {
+      "myprofile": {
+        "profile_image": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/profile/profile.png",
+        "user_neme": {
+          "title": "User name",
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/profile/profile.png"
+        },
+        "my_profile": {
+          "title": "My Profile",
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/profile/account_circle.png"
+        },
+        "dashboard_filter": {
+          "title": "Dashboard Filter",
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/profile/add_road.png"
+        },
+        "logout": {
+          "title": "Logout",
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/profile/logout.png"
+        },
+        "dayout_logout": {
+          "title": "Dayout/Logout",
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/profile/day+out.png"
+        }
+      },
+      "hamburger": {
+        "hamburger_image": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/list/list+icone.png",
+        "marketing": {
+          "title": "Marketing",
+          "email": {
+            "title": "Email",
+            "icon": "email_icon"
+          },
+          "chats": {
+            "title": "Chats",
+            "icon": "chats_icon"
+          },
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/lead.png"
+        },
+        "sales": {
+          "title": "Sales",
+          "calls": {
+            "title": "Calls",
+            "icon": "calls_icon"
+          },
+          "leads": {
+            "title": "Leads",
+            "icon": "leads_icon"
+          },
+          "sites_visits": {
+            "title": "Sites Visits",
+            "icon": "sites_visits_icon"
+          },
+          "icon": "sales_icon"
+        },
+        "analytics": {
+          "title": "Analytics",
+          "updates": {
+            "title": "Updates",
+            "icon": "updates_icon"
+          },
+          "reports": {
+            "title": "Reports",
+            "icon": "reports_icon"
+          },
+          "icon": "analytics_icon"
+        },
+        "others": {
+          "title": "Others",
+          "call_logs": {
+            "title": "Call Logs",
+            "icon": "call_logs_icon"
+          },
+          "enquiry": {
+            "title": "Enquiry",
+            "icon": "enquiry_icon"
+          },
+          "whatsapp_template": {
+            "title": "Whatsapp Template",
+            "icon": "whatsapp_template_icon"
+          },
+          "attendances": {
+            "title": "Attendances",
+            "icon": "attendances_icon"
+          },
+          "track_locations": {
+            "title": "Track Locations",
+            "icon": "track_locations_icon"
+          },
+          "notifications": {
+            "title": "Notifications",
+            "icon": "notifications_icon"
+          },
+          "icon": "others_icon"
+        },
+        "tools": {
+          "title": "Tools",
+          "email_templates": {
+            "title": "Email Templates",
+            "icon": "email_templates_icon"
+          },
+          "recycle_bin": {
+            "title": "Recycle Bin",
+            "icon": "recycle_bin_icon"
+          },
+          "icon": "tools_icon"
+        }
+      },
+      "full_screen": {
+        "title": "Full Screen",
+        "full_screen_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/Vector.png"
+      },
+      "search": {
+        "title": "Search",
+        "search_icon": "search_icon"
+      },
+      "company_logo": {
+        "product_logo": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/ellipse-42x.png",
+        "business_logo": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/brand-logo2x.png"
+      }
+    },
+    "sidemenu": {
+      "home": {
+        "title": "Home",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/Home.png",
+        "selected_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/seleted_icons/Home_blue.png"
+      },
+      "calls": {
+        "title": "Calls",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/call.png",
+        "selected_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/seleted_icons/call_blue.png"
+      },
+      "enquiry": {
+        "title": "Enquiry",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/enquriy_black.png",
+        "selected_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/seleted_icons/enquriy_blue.png"
+      },
+      "leads": {
+        "title": "Leads",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/lead.png",
+        "selected_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/seleted_icons/leads_blue.png"
+      },
+      "report": {
+        "title": "Report",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/report_black.png",
+        "selected_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/seleted_icons/report_blue.png"
+      }
+    },
+    "menu_bar": {
+      "add_features_values": {
+        "value1": "Calls",
+        "value2": "General",
+        "value3": "Email",
+        "value4": "Whatsapp Template",
+        "value5": "Sites Visits",
+        "value6": "Reports",
+        "value7": "Leads",
+        "value8": "Chats",
+        "value9": "Notifications",
+        "value10": "Attandances",
+        "value11": "IVR Balance",
+        "value12": "Email Templates",
+        "value13": "Test"
+      },
+      "menu_images": {
+        "add_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/ADD_plus.png"
+        },
+        "left_arrow_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/arrow_left.png"
+        },
+        "right_arrow_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/arrow_right.png"
+        },
+        "mask_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/Mask+group.png"
+        },
+        "notifications_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/Notification+Button.png"
+        },
+        "refresh_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/refresh.png"
+        },
+        "close_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/close.png"
+        },
+        "search_icon": {
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/Search.png"
+        },
+        "create_widget_icon": {
+          "title": "Create New Widgets",
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/appliance/widgets/plus.png"
+        }
+      },
+      "menu_text": {
+        "title": "DayIn"
+      }
+    },
+    "submenu": {
+      "Dashboard Filter": {
+        "title": "Dashboard Filter|No Filters",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Filter/add_home_work.png"
+      },
+      "Filter": {
+        "title": "Filter",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Filter/filter_alt.png"
+      },
+      "Widgets": {
+        "title": "Widgets",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Filter/widgets.png"
+      },
+      "Target": {
+        "title": "Target",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Filter/target.png"
+      }
+    },
+    "footer": {
+      "workiy": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/footer/workiy.png",
+      "brand": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/footer/brand.png",
+      "url": "https://www.workiy.com/",
+      "copyright": "© Copyrights",
+      "company_name": "Workiy",
+      "dot": "."
+    }
+  }
+}]

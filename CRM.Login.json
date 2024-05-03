@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6615176417a196d70089d1b0"
+  },
+  "login": {
+    "welcome": {
+      "title": "Welcome Back! Login To Your Account Below",
+      "log": "Login"
+    },
+    "company": {
+      "placeholder": "Company Name",
+      "logo": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/login/apartment.png"
+    },
+    "username": {
+      "placeholder": "User Name",
+      "logo": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/login/account_circle.png"
+    },
+    "password": {
+      "placeholder": "Password",
+      "logo": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/login/encrypted.png",
+      "eyeOff": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/login/eye.png",
+      "eyeOpen": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/login/eyeIcon.png"
+    },
+    "button": {
+      "title": "login"
+    },
+    "background": {
+      "bg": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/login/13695.jpg",
+      "image1": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/login/crm+2.png",
+      "image2": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/login/crm-3.png",
+      "image3": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/login/crm-4.png",
+      "image4": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/login/crm-5.png",
+      "image5": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/login/crm1.png"
+    },
+    "forget": {
+      "title": "Forget Password ?"
+    },
+    "login": {
+      "title": "Login"
+    },
+    "error": {
+      "title": "'Please fill in all required fields."
+    }
+  }
+}]
