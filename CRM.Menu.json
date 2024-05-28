@@ -33,11 +33,11 @@
           "title": "Marketing",
           "email": {
             "title": "Email",
-            "icon": "email_icon"
+            "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/mail.png"
           },
           "chats": {
             "title": "Chats",
-            "icon": "chats_icon"
+            "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/chat.png"
           },
           "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/lead.png"
         },
@@ -45,69 +45,69 @@
           "title": "Sales",
           "calls": {
             "title": "Calls",
-            "icon": "calls_icon"
+            "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/call.png"
           },
           "leads": {
             "title": "Leads",
-            "icon": "leads_icon"
+            "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/card_membership.png"
           },
           "sites_visits": {
             "title": "Sites Visits",
-            "icon": "sites_visits_icon"
+            "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/cottage.png"
           },
-          "icon": "sales_icon"
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/account_balance.png"
         },
         "analytics": {
           "title": "Analytics",
           "updates": {
             "title": "Updates",
-            "icon": "updates_icon"
+            "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/bring_your_own_ip.png"
           },
           "reports": {
             "title": "Reports",
-            "icon": "reports_icon"
+            "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/assignment.png"
           },
-          "icon": "analytics_icon"
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/approval_delegation.png"
         },
         "others": {
           "title": "Others",
           "call_logs": {
             "title": "Call Logs",
-            "icon": "call_logs_icon"
+            "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/time.png"
           },
           "enquiry": {
             "title": "Enquiry",
-            "icon": "enquiry_icon"
+            "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/upload.png"
           },
           "whatsapp_template": {
             "title": "Whatsapp Template",
-            "icon": "whatsapp_template_icon"
+            "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/Whatsapp.png"
           },
           "attendances": {
             "title": "Attendances",
-            "icon": "attendances_icon"
+            "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/group.png"
           },
           "track_locations": {
             "title": "Track Locations",
-            "icon": "track_locations_icon"
+            "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/map.png"
           },
           "notifications": {
             "title": "Notifications",
-            "icon": "notifications_icon"
+            "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/notifications.png"
           },
-          "icon": "others_icon"
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/account_circle.png"
         },
         "tools": {
           "title": "Tools",
           "email_templates": {
-            "title": "Email Templates",
-            "icon": "email_templates_icon"
+            "title": "Email Template",
+            "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/contact_mail.png"
           },
           "recycle_bin": {
             "title": "Recycle Bin",
-            "icon": "recycle_bin_icon"
+            "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/delete.png"
           },
-          "icon": "tools_icon"
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/category.png"
         }
       },
       "full_screen": {
@@ -116,7 +116,7 @@
       },
       "search": {
         "title": "Search",
-        "search_icon": "search_icon"
+        "search_icon": "abd"
       },
       "company_logo": {
         "product_logo": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Header/ellipse-42x.png",
@@ -126,45 +126,43 @@
     "sidemenu": {
       "home": {
         "title": "Home",
-        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/Home.png",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/Home.png",
         "selected_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/seleted_icons/Home_blue.png"
       },
       "calls": {
         "title": "Calls",
-        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/call.png",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/Calls.png",
         "selected_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/seleted_icons/call_blue.png"
       },
       "enquiry": {
         "title": "Enquiry",
-        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/enquriy_black.png",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/Enquriy.png",
         "selected_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/seleted_icons/enquriy_blue.png"
       },
       "leads": {
         "title": "Leads",
-        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/lead.png",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/Lead.png",
         "selected_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/seleted_icons/leads_blue.png"
       },
       "report": {
         "title": "Report",
-        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/report_black.png",
+        "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/Reports.png",
         "selected_icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/navigation/seleted_icons/report_blue.png"
       }
     },
     "menu_bar": {
       "add_features_values": {
-        "value1": "Calls",
-        "value2": "General",
-        "value3": "Email",
-        "value4": "Whatsapp Template",
-        "value5": "Sites Visits",
-        "value6": "Reports",
-        "value7": "Leads",
-        "value8": "Chats",
-        "value9": "Notifications",
-        "value10": "Attandances",
-        "value11": "IVR Balance",
-        "value12": "Email Templates",
-        "value13": "Test"
+        "Calls": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/menu/call.png",
+        "General": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/menu/Genral.png",
+        "Email": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/menu/Mail.png",
+        "Whatsapp": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/menu/Whatsapp.png",
+        "Leads": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/menu/Leads.png",
+        "Reports": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/menu/Report.png",
+        "Chats": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/menu/Chat.png",
+        "Attandance": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/menu/Attendance.png",
+        "IVR Balance": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/menu/IVR.png",
+        "Facebook": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/menu/Report.png",
+        "Instagram": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/20-05-2024/menu/IVR.png"
       },
       "menu_images": {
         "add_icon": {
@@ -180,10 +178,10 @@
           "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/Mask+group.png"
         },
         "notifications_icon": {
-          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/Notification+Button.png"
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/18-05-2024/notifications.png"
         },
         "refresh_icon": {
-          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/refresh.png"
+          "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Common+Images+of+CRM/18-05-2024/refresh.png"
         },
         "close_icon": {
           "icon": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/Menu/close.png"

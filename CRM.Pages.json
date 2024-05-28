@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "66067a7dfc6bcd79d187c0b1"
+  },
+  "welcome": {
+    "Images": {
+      "welcome_bg_img": "https://workiy-crm-images.s3.us-east-2.amazonaws.com/23-05-2024/businessman-works-on-laptop-show.png"
+    },
+    "Texts": {
+      "text1": "Welcome to Workiy CRM!",
+      "text2": "We’re excited to help you streamline your business operations and enhance your customer relationships. Get started now and explore the features tailored to your needs. Thank you for choosing Workiy-CRM your partner in success!",
+      "text3": "Let's get started"
+    }
+  }
+}]
